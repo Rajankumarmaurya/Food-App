@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const DB = 'mongodb+srv://gofood:rajanmaurya@cluster0.gdrkl4o.mongodb.net/gofoodmern?retryWrites=true&w=majority';
+const DB = 'mension database here';
 
 
 const mongoDB = async () => {
